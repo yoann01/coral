@@ -1,6 +1,7 @@
 <div>
-  <a href="/"> <img src="https://lh3.googleusercontent.com/5JfUtCuDypt9mUkEn5vxkdDGw_8PGCtKjGqF0-Y1c_RDE6rKsRZfM3nQuDuAlPJHMCc1=s89"  alt="Coral"> </a>
-  <h1 align="left"style="font-weight:bold; font-size:300%; font-family:courier;color:DodgerBlue ;">&nbsp;CORAL&nbsp;</h1>
+  <a href="/"> <img src="https://lh3.googleusercontent.com/5JfUtCuDypt9mUkEn5vxkdDGw_8PGCtKjGqF0-Y1c_RDE6rKsRZfM3nQuDuAlPJHMCc1=s89"  alt="Coral">
+  <h1 style="font-weight:bold; font-size:300%; font-family:courier;color:DodgerBlue ;">&nbsp;CORAL&nbsp;</h1>
+     </a>
 </div>
 
 
