@@ -1,5 +1,5 @@
 https://storage.googleapis.com/google-code-archive/v2/code.google.com/coral-repo/logo.png
-<h1 align="center"style="font-weight:bold; font-size:300%; font-family:courier;color:DodgerBlue ;">&nbsp;HAZEL&nbsp;</h1>
+<h1 align="center"style="font-weight:bold; font-size:300%; font-family:courier;color:DodgerBlue ;">&nbsp;CORAL&nbsp;</h1>
 
 >Coral is an open-source visual programming environment
 to help artists and coders with rapid prototyping of CGI algorithms and workflows.
