@@ -1,4 +1,7 @@
-<div class="orb-nav-section orb-nav-blocks"><a href="/"> <img src="https://storage.googleapis.com/google-code-archive/v2/code.google.com/coral-repo/logo.png" width="84" height="24" alt="BBC"> </a><h1 align="center"style="font-weight:bold; font-size:300%; font-family:courier;color:DodgerBlue ;">&nbsp;CORAL&nbsp;</h1></div>
+<div>
+  <a href="/"> <img src="https://lh3.googleusercontent.com/5JfUtCuDypt9mUkEn5vxkdDGw_8PGCtKjGqF0-Y1c_RDE6rKsRZfM3nQuDuAlPJHMCc1=s89"  alt="Coral"> </a>
+  <h1 align="left"style="font-weight:bold; font-size:300%; font-family:courier;color:DodgerBlue ;">&nbsp;CORAL&nbsp;</h1>
+</div>
 
 
 
